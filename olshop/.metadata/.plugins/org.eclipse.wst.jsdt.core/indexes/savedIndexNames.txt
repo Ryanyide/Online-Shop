@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\java EE\olshop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+855815527.index
+2050289041.index
+1869802615.index
+3768111753.index
+3150640790.index
+258756240.index

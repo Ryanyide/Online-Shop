@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Mon Mar 02 12:28:10 PST 2020
+org.eclipse.jst.j2ee.server\:onlineShop=D\:\\java EE\\apache-tomcat-9.0.30\\wtpwebapps\\onlineShop
+org.eclipse.jst.j2ee.server\:/binary\:D\:\\java\ EE\\olshop\\onlineShop\\src\\main\\webapp\\WEB-INF-20200221T043343Z-001.zip=D\:\\java EE\\apache-tomcat-9.0.30\\wtpwebapps\\onlineShop\\WEB-INF-20200221T043343Z-001.zip
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\ranyide\\.m2\\repository\\org\\springframework\\spring-web\\5.2.3.RELEASE\\spring-web-5.2.3.RELEASE.jar=D\:\\java EE\\apache-tomcat-9.0.30\\wtpwebapps\\onlineShop\\WEB-INF\\lib\\spring-web-5.2.3.RELEASE.jar
